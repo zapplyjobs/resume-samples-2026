@@ -60,11 +60,11 @@ These resources were created in collaboration with an industry-leading resume wr
 
 ## Resume Templates
 
-// ![Customizable templates with helpful tips for each section.](images/.png)
+![Customizable templates with helpful tips for each section.](images/templates.png)
 
 |  1-Page  |  2-Page  |  Federal  |
 |:------:|:-----------:|:---------:|
-| <a href=""><img src="images/template-1-page-resume.png" width="300"></a> | <a href=""><img src="images/template-2-page-resume.png" width="300"></a> | <a href=""><img src="images/template-federal-resume.png" width="300"></a> |
+| <a href="https://drive.google.com/uc?export=download&id=1qSiXm-GH87JnByUcMCyqWmnYS-g9tnAi"><img src="images/template-1-page-resume.png" width="300"></a> | <a href="https://drive.google.com/uc?export=download&id=1NgiGxyKlQ2alE6mpuhFqJ7B0ZycDxYyS"><img src="images/template-2-page-resume.png" width="300"></a> | <a href="https://drive.google.com/uc?export=download&id=1b7yRdk-z_Y6yGhHnIEOiImh5K9mjdm4N"><img src="images/template-federal-resume.png" width="300"></a> |
 
 ---
 
@@ -87,9 +87,11 @@ These resources were created in collaboration with an industry-leading resume wr
 <table align="center">
   <tr>
     <th>Supply Chain</th>
+    <th>Cover Letter Template</th>
   </tr>
   <tr>
     <td><a href="https://drive.google.com/uc?export=download&id=1eaT__lw6CXSxoogMl1oVrl9x-Ngf1usg"><img src="images/cover-letter-supply-chain.png" width="300"></a></td>
+    <td><a href="https://drive.google.com/uc?export=download&id=1uqATYvLJ_tkOXWDlm-aDWhN48Vqt_i2D"><img src="images/template-cover-letter.png" width="300"></a></td>
   </tr>
 </table>
 
