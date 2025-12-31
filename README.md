@@ -17,12 +17,12 @@ These resources were created in collaboration with an industry-leading resume wr
 
 ## Join Our Community
 
-![Join Our Community - Illustration of people holding hands.](images/rifu-community.png)
+![Join Our Community - Illustration of people holding hands.](images/community.png)
 
 <p align="center">
-  <a href="https://discord.gg/EXR6rWnd"><img src="images/rifu-discord.png" alt="Join Our Discord" width="235"></a>
+  <a href="https://discord.gg/EXR6rWnd"><img src="images/discord.png" alt="Join Our Discord" width="235"></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.reddit.com/r/Zapply/"><img src="images/rifu-reddit.png" alt="Join Our Reddit" width="200"></a>
+  <a href="https://www.reddit.com/r/Zapply/"><img src="images/reddit.png" alt="Join Our Reddit" width="200"></a>
 </p>
 
 <p > 
@@ -30,4 +30,6 @@ These resources were created in collaboration with an industry-leading resume wr
 </p>
 
 ## Resume Samples
+
+![Sample Resume - Human Resources](images/resume-hr.png)
 
