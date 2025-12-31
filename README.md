@@ -1,3 +1,5 @@
+![Resume Samples 2026 - Illustration of resumes being evaluated.](images/rss-heading.png)
+
 # <p align="center"> Resume Samples 2026 </p>
 
 <p align="center">This repo includes samples and best practices to help you create an ATS-compliant resume that will also impress recruiters and interviewers. It also includes other resources, such as cover letter and LinkedIn profile samples.</p>
