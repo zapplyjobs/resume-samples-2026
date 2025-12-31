@@ -31,5 +31,5 @@ These resources were created in collaboration with an industry-leading resume wr
 
 ## Resume Samples
 
-![Sample Resume - Human Resources](images/resume-hr.png)
+<img src="images/resume-hr.png" alt="Resume Sample - Human Resources" width="250"></a>
 
