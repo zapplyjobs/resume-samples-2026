@@ -101,6 +101,29 @@ These resources were created in collaboration with an industry-leading resume wr
 
 ![Stand out to recruiters and expand your network.](images/linkedin-samples.png)
 
+|  Tech  |  Marketing  |  Finance  |
+|:------:|:-----------:|:---------:|
+| <a href="https://drive.google.com/uc?export=download&id=121rIiqGWLtnkBg40cg1LM9Ds-WwIzt9M"><img src="images/linkedin-tech.png" width="300"></a> | <a href="https://drive.google.com/uc?export=download&id=19s4DgPyDes6_raJZB3-oSLrMBaykI9Px"><img src="images/linkedin-marketing.png" width="300"></a> | <a href="https://drive.google.com/uc?export=download&id=1UzIl06ajOBR18ITbNwl0cZVqp-SulBSu"><img src="images/linkedin-finance.png" width="300"></a> |
+
+|  HR  |  Product  |  Sales  |
+|:----:|:---------:|:-------:|
+| <a href="https://drive.google.com/uc?export=download&id=1HmRiQQVXn9partwsy9b77owZCtbrsDcT"><img src="images/linkedin-hr.png" width="300"></a> | <a href="https://drive.google.com/uc?export=download&id=1WwDcu4JDK3FNaqw8Wi8RFsMRHbW0y0qV"><img src="images/linkedin-product.png" width="300"></a> | <a href="https://drive.google.com/uc?export=download&id=125GU0i-urN17YM5HY4uU02hl01Vz-grr"><img src="images/linkedin-sales.png" width="300"></a> |
+
+|  Project Management  |  Operations  |  Healthcare  |
+|:--------------------:|:------------:|:------------:|
+| <a href="https://drive.google.com/uc?export=download&id=1KBki08n6ImjkqLJ1p0_uPzYyZ2rO2hlW"><img src="images/linkedin-project.png" width="300"></a> | <a href="https://drive.google.com/uc?export=download&id=1_DppilOKtCHeb5fWVIdG7zjXlhRrnvin"><img src="images/linkedin-operations.png" width="300"></a> | <a href="https://drive.google.com/uc?export=download&id=1JVcwushcLbZpJhHmHHah8UK8FPrRuCqv"><img src="images/linkedin-healthcare.png" width="300"></a> |
+
+<table align="center">
+  <tr>
+    <th>Supply Chain</th>
+    <th>LinkedIn Template</th>
+  </tr>
+  <tr>
+    <td><a href="https://drive.google.com/uc?export=download&id=1E1RqMk6pwGEKOhSaEJtW0mCYFCemcNrP"><img src="images/linkedin-supply-chain.png" width="300"></a></td>
+    <td><a href="https://drive.google.com/uc?export=download&id=1EqB_7yKgyWb9xv0Rb6StqaPCwn18dc9J"><img src="images/template-linkedin.png" width="300"></a></td>
+  </tr>
+</table>
+
 ---
 
 <p align="center">
