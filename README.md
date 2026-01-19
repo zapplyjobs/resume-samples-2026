@@ -155,6 +155,10 @@ Check out what we're doing on our socials, join our community to connect with fe
 
 ## More Resources
 
+![Jobs and templates in our other repos.](images/more-resources.png)
+
+Check out our other repos for jobs and free resources:
+
 <p align="center">
   <a href="https://github.com/zapplyjobs/New-Grad-Software-Engineering-Jobs-2026"><img src="images/repo-sej.png" alt="Software Engineering Jobs" height="40"></a>
   &nbsp;&nbsp;
