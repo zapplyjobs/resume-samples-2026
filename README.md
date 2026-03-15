@@ -15,7 +15,7 @@
 
 ---
 
-## **Website & Autofill Extension**
+## **Autofill Extension**
 
 ![Apply to jobs in seconds with Zapply.](images/zapply.png)
 
