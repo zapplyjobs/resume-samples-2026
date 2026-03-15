@@ -23,13 +23,11 @@ Explore Zapply's website and check out:
 
 - Our chrome extension that autofills your job applications in seconds.
 - A dedicated job board with the latest jobs for various types of roles.
-- User account providing multiple profiles for different resume roles.
-- Job application tracking with streaks to unlock commitment awards.
 
 Experience an advanced career journey with us! 🚀
 
 <p align="center">
-  <a href="https://zapply.jobs/"><img src="images/zapply-button.png" alt="Visit Our Website" width="300"></a>
+  <a href="https://zapply.jobs/"><img src="images/zapply-button-2.png" alt="Visit Our Website" width="600"></a>
 </p>
 
 ---
