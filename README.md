@@ -29,7 +29,7 @@ Explore Zapply's website and check out:
 Experience an advanced career journey with us! 🚀
 
 <p align="center">
-  <a href="https://zapply.jobs/?ref=gh-research-internships"><img src="images/zapply-button-4.png" alt="Visit Our Website" width="700"></a>
+  <a href="https://zapply.jobs"><img src="images/zapply-button-4.png" alt="Visit Our Website" width="700"></a>
 </p>
 
 ---
