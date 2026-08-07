@@ -17,7 +17,7 @@
 
 ## **Website & Autofill Extension**
 
-[![Apply to jobs in seconds with Zapply.](images/zapply-logo-banner.png)](https://app.zapply.jobs/onboarding/?ref=gh-resume-samples)
+[![Apply to jobs in seconds with Zapply.](images/apply-faster-banner.png)](https://app.zapply.jobs/onboarding/?ref=gh-resume-samples)
 
 Explore Zapply’s website and check out:
 
@@ -30,7 +30,7 @@ Experience an advanced career journey with us! 🚀
 
 <p align="center">
   <a href="https://app.zapply.jobs/onboarding/?ref=gh-resume-samples">
-    <img src="images/zapply-button-9.png" alt="Visit Zapply" width="500">
+    <img src="images/get-started-button.png" alt="Visit Zapply" width="500">
   </a>
 </p>
 
